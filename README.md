@@ -1,4 +1,4 @@
-Executable program for monochrome LCD-enabled Logitech products (compatible with Logitech LCD Manager) for displaying data supplied by Toontown Rewritten's Login API.
+Executable program for monochrome LCD-enabled Logitech products (compatible with Logitech LCD Manager) for displaying data supplied by Toontown Rewritten's Local API.
 
   REQUIREMENTS:
   - LogitechLcdEnginesWrapper.dll (present at executable's directory)
